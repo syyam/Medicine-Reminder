@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "286895413094",
+    "firebase_url": "https://myfirebaseauthapp-e862b.firebaseio.com",
+    "project_id": "myfirebaseauthapp-e862b",
+    "storage_bucket": "myfirebaseauthapp-e862b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286895413094:android:fa3ebd888aa734a8",
+        "android_client_info": {
+          "package_name": "com.example.syyam.saifapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286895413094-eut7fn5vcaq2ib2nj5d78324hka046vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVc1FnPUVcgeo8ytSCutzO0BIFvSYGJwY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
